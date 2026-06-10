@@ -1,4 +1,4 @@
-# TP_FINAL_AST1
+# TP FINAL AST1
 
 Trabajo Práctico Final de la materia **Análisis de Series de Tiempo 1** — Especialización en Inteligencia Artificial, FIUBA (UBA).
 
