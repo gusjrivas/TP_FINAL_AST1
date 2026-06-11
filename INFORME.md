@@ -8,15 +8,17 @@
 
 ---
 
-## 0. Qué pide la consigna y dónde se resuelve
+## Consigna
 
-La consigna (`Modelo_TP_final_AST_MIA_3Co202.pdf`) pide dos entregables, cada uno con un peso del 50 % de la nota:
+Documento con la consigna: [`Modelo_TP_final_AST_MIA_3Co202.pdf`](Modelo_TP_final_AST_MIA_3Co202.pdf)
+
+La consigna pide dos entregables, cada uno con un peso del 50 % de la nota:
 
 ### 1) Código en Python comentado y reproducible (50 %)
 
 Debe incluir:
 
-| Requisito de la consigna | Dónde se resuelve en el notebook `v1` |
+| Requisito de la consigna | Dónde se resuelve en el notebook [`v1`](TP_Final_Generacion_Electrica_Argentina_v1.ipynb) |
 |---|---|
 | a. Limpieza y preparación de los datos | Secciones 2 y 3 (carga del dataset de Kaggle, filtrado por Argentina, verificación de nulos/outliers/frecuencia) |
 | b. Creación de modelos de series de tiempo (mínimo 3 tipos) | Sección 6: se construyeron **4 modelos** — ARIMA, SARIMA, Holt-Winters (aditivo y multiplicativo) y Prophet |
